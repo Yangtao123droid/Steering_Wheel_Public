@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC_3.3V Pin=CN1-1
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=CSQ Pin=CN1-3
+Removed Pin From Net: NetName=SCK Pin=CN1-4
+Removed Pin From Net: NetName=DATA Pin=CN1-5
+Removed Pin From Net: NetName=DATA Pin=CN1-6
+Added Pin To Net: NetName=DATA Pin=CN1-1
+Added Pin To Net: NetName=DATA Pin=CN1-2
+Added Pin To Net: NetName=SCK Pin=CN1-3
+Added Pin To Net: NetName=CSQ Pin=CN1-4
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=VCC_3.3V Pin=CN1-6
+Added Room: Name=TLE5012

@@ -1,0 +1,18 @@
+Added Component: Designator=U??(PG-DSO-8_L5.0-W4.0-P1.27-LS6.0-BL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170728/C123083_1501225763065848823.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TLE5012BE1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "TLE5012BE1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon(?????)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TLE5012BE1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rotation Angle"; Value = "0??~360??"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SO-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C123083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TLE5012BE1000XUMA1"; VariantName = "[No Variations]"
+Added Class: Name=TLE5012
+Added Room: Name=TLE5012
